@@ -24,9 +24,9 @@ PowerShell Scripts: For automated installations, PowerShell scripts can streamli
 Command Line: Advanced users may opt for command-line installations for granular control over the update process.
 Monitoring and Post-Update Tasks After applying a Cumulative Update, monitoring the system is crucial:
 
-Check for Errors**: Review SQL Server logs and Windows Event Viewer to identify any issues post-update.
-Performance Evaluation**: Monitor the database performance closely to ensure that expected improvements are realized.
-Regular Maintenance**: Plan and execute regular maintenance tasks such as index rebuilding and statistics updates to keep the server running optimally.
+Check for Errors: Review SQL Server logs and Windows Event Viewer to identify any issues post-update.
+Performance Evaluation: Monitor the database performance closely to ensure that expected improvements are realized.
+Regular Maintenance: Plan and execute regular maintenance tasks such as index rebuilding and statistics updates to keep the server running optimally.
 Conclusion Cumulative Updates for SQL Server 2016 and higher are vital for ensuring your database environment remains secure, stable, and efficient. By staying informed about the latest updates and adhering to best practices for their application, administrators can effectively manage their SQL Server instances.
 
 References
