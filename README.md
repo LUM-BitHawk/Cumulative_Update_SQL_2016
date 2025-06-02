@@ -30,7 +30,7 @@ Regular Maintenance: Plan and execute regular maintenance tasks such as index re
 Conclusion Cumulative Updates for SQL Server 2016 and higher are vital for ensuring your database environment remains secure, stable, and efficient. By staying informed about the latest updates and adhering to best practices for their application, administrators can effectively manage their SQL Server instances.
 
 References
+- Microsoft Documentation: [SQL Server Cumulative Updates](https://docs.microsoft.com/en-us/sql/sql-server/)
+- SQL Server Release Notes: [Release Notes for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/release-notes)
 
-Microsoft Documentation: SQL Server Cumulative Updates
-SQL Server Release Notes: Release Notes for SQL Server
 For any further inquiries or specific scenarios regarding Cumulative Updates, feel free to reach out.
