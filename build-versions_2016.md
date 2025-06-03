@@ -1,6 +1,6 @@
 KB5046856 – Hinweise zum Sicherheitsupdate für SQL Server 2016 SP3 Azure Connect Feature Pack: 12. November 2024
 
-QL Server 2016 Service Pack 3 (SP3) Azure Connect Pack builds
+SQL Server 2016 Service Pack 3 (SP3) Azure Connect Pack builds
 Note
 
 Azure Connect Feature Pack is optional and should be installed only if you intend to connect SQL Server with Azure SQL Managed Instance.
